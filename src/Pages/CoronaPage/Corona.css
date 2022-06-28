@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.divMer{
+    background-color: black;
+    width: 250px;
+    font-size: 25px;
+    
+}
+.divErkir{
+    color: red;
+}
+.divErkir b{
+    color: violet;
+}
+.divMah{
+    color: yellow;
+}
+.divMah b{
+    color: violet;
+}
+.divVarak{
+    color: blue;
+}
+.divVarak b{
+    color: violet;
+}

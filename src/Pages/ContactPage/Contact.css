@@ -1,0 +1,25 @@
+.divarjeq{
+    width: 300px;
+    font-size: 30px;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
+.divx{
+    font-size: 30px;
+    color: blue;
+}
+.divcol{
+    background-color: red;
+    width: 250px;
+    height: 100px;
+    margin-top: 30px;
+    
+}
+.divcol1{
+    background-color: red;
+    width: 250px;
+    height: 100px;
+    margin-top: 30px;
+    display: none;
+}
